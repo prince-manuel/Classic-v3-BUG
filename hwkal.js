@@ -25,7 +25,7 @@ global.region = 'nigeria' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝓟 𝓡 𝓘 𝓝 𝓒 𝓔⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254104301695'] // ubah aja pake nomor lu
+global.owner = ['2349017935543'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '⫹⸙⧉🅿🆁🅸🅽🅲🅴 🅱🅾🆃⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
